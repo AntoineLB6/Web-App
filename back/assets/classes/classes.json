@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Guerrier",
+        "id": "#0001",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 100,
+            "force": 5,
+            "dexterite": 5,
+            "resistance": 4,
+            "agilite": 2,
+            "reserve_magique": 3,
+            "puissance_magique": 3
+        }
+    },
+    {
+        "name": "Assassin",
+        "id": "#0002",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 50,
+            "force": 4,
+            "dexterite": 6,
+            "resistance": 2,
+            "agilite": 5,
+            "reserve_magique": 2,
+            "puissance_magique": 3
+        }
+    },
+    {
+        "name": "Archer",
+        "id": "#0003",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 50,
+            "force": 2,
+            "dexterite": 8,
+            "resistance": 3,
+            "agilite": 4,
+            "reserve_magique": 4,
+            "puissance_magique": 4
+        }
+    },
+    {
+        "name": "Mage",
+        "id": "#0004",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 50,
+            "force": 2,
+            "dexterite": 2,
+            "resistance": 3,
+            "agilite": 2,
+            "reserve_magique": 6,
+            "puissance_magique": 6
+        }
+    }
+]

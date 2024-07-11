@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Humain",
+        "id": "#0001",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 50,
+            "force": 4,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 3,
+            "reserve_magique": 4,
+            "puissance_magique": 3
+        }
+    },
+    {
+        "name": "Demi-Loup",
+        "id": "#0002",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 60,
+            "force": 5,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 5,
+            "reserve_magique": 4,
+            "puissance_magique": 4
+        }
+    },
+    {
+        "name": "Demi-Chat",
+        "id": "#0003",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 60,
+            "force": 5,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 5,
+            "reserve_magique": 4,
+            "puissance_magique": 4
+        }
+    },
+    {
+        "name": "Demi-Mouton",
+        "id": "#0004",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 60,
+            "force": 5,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 5,
+            "reserve_magique": 4,
+            "puissance_magique": 4
+        }
+    },
+    {
+        "name": "Demi-Raton Laveur",
+        "id": "#0005",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 60,
+            "force": 5,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 5,
+            "reserve_magique": 4,
+            "puissance_magique": 4
+        }
+    },
+    {
+        "name": "Demi-Chien",
+        "id": "#0006",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 60,
+            "force": 5,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 5,
+            "reserve_magique": 4,
+            "puissance_magique": 4
+        }
+    },
+    {
+        "name": "Amazone",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "id": "#0007",
+        "stats": {
+            "hp": 65,
+            "force": 8,
+            "dexterite": 6,
+            "resistance": 5,
+            "agilite": 5,
+            "reserve_magique": 3,
+            "puissance_magique": 3
+        }
+    },
+    {
+        "name": "Nain",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "id": "#0008",
+        "stats": {
+            "hp": 80,
+            "force": 6,
+            "dexterite": 4,
+            "resistance": 8,
+            "agilite": 3,
+            "reserve_magique": 3,
+            "puissance_magique": 3
+        }
+    },
+    {
+        "name": "Pallum",
+        "id": "#0009",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 55,
+            "force": 4,
+            "dexterite": 5,
+            "resistance": 4,
+            "agilite": 4,
+            "reserve_magique": 5,
+            "puissance_magique": 5
+        }
+    },
+    {
+        "name": "Elfe",
+        "id": "#0010",
+        "chances": {
+            "hp": 20,
+            "force": 10,
+            "dexterite": 10,
+            "resistance": 10,
+            "agilite": 10,
+            "reserve_magique": 10,
+            "puissance_magique": 10
+        },
+        "stats": {
+            "hp": 50,
+            "force": 4,
+            "dexterite": 5,
+            "resistance": 3,
+            "agilite": 4,
+            "reserve_magique": 7,
+            "puissance_magique": 8
+        }
+    }
+]
